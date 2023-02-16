@@ -1,0 +1,6 @@
+{
+    "event": [
+      { "name": "Peter", "epost": "peter@gmail.com", "message": "is ok" },
+      { "name": "Amanda", "epost": "amanda@gmail.com", "message": "yes" }
+    ]
+  }
